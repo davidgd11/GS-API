@@ -1,6 +1,6 @@
-## GLOBAL SOLUTION - API
+# GLOBAL SOLUTION - API
 
-# Integrantes
+## Integrantes
 
 | Nome               | RM       |
 |--------------------|----------|
